@@ -1490,3 +1490,10 @@ yieldlab.net, 2172218, reseller
 yieldlab.net, 6378054, RESELLER
 yieldnexus.com, 96204, DIRECT
 yieldnexus.com, 96204, reseller
+adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
+meitu.com, 654, RESELLER
+emxdgt.com, 2047, RESELLER, 1e1d41537f7cad7f
+opera.com, pub5449961587776, RESELLER, 55a0c5fd61378de3
+video.unrulymedia.com, 3880497124, RESELLER
+stitchvideo.tv, RESELLER #stitchvideo
+engagebdr.com, 10517, DIRECT
