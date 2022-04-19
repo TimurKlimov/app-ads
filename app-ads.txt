@@ -1871,4 +1871,3 @@ yieldmo.com, 2774758826572718293, RESELLER #stitchvideo
 yieldmo.com, 2807970144171533194, RESELLER
 yieldnexus.com, 96204, DIRECT
 yieldnexus.com, 96204, RESELLER
-facebook.com, 219370212782080, DIRECT, c3e20eee3f780d68
