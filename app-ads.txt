@@ -2030,3 +2030,10 @@ chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
 appnexus.com, 10824, RESELLER
 indexexchange.com, 193880, RESELLER
 rhythmone.com, 3341072718, RESELLER, a670c89d4a324e47
+indexexchange.com, 192095, RESELLER
+krushmedia.com, AJxF6R244a9M6CaTvK, RESELLER
+video.unrulymedia.com, UNRX-PUB-b7b8af13-0a12-4d37-8b27-0dc8aa90e3e2, RESELLER
+altitude-arena.com, D514PEJI752PR0ICN9P3JTCTFG, RESELLER
+inmobi.com,94262e51745c4a88863d51a61d0af6b6, RESELLER, 83e75a7ae333ca9d
+Xandr.com, 2117, RESELLER
+google.com, pub-7306887121047287, RESELLER, f08c47fec0942fa0
