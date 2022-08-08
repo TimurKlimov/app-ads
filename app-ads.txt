@@ -2979,3 +2979,6 @@ appnexus.com,12964,RESELLER,f5ab79cb980f11d1
 pubmatic.com,156439,RESELLER,5d62403b186f2ace
 pubmatic.com,156344,RESELLER,5d62403b186f2ace
 indexexchange.com,184738,RESELLER
+thisisdax.com,dax,RESELLER
+thisisdax.com,5285,RESELLER
+thisisdax.com,5288,RESELLER
