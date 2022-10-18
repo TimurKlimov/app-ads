@@ -1,3 +1,4 @@
+facebook.com, 328923335964817, RESELLER, c3e20eee3f780d68
 Facebook.com, 1250292545814307, RESELLER, c3e20eee3f780d68
 Facebook.com, 640684284113311, RESELLER, c3e20eee3f780d68
 Facebook.com, 640965414021255, RESELLER, c3e20eee3f780d68
@@ -3274,3 +3275,15 @@ yieldnexus.com, 96204, RESELLER
 google.com, pub-5012668337557469, RESELLER
 google.com, pub-8236665230625728, RESELLER
 video.unrulymedia.com, 170071695, RESELLER
+pubmatic.com, 161332, reseller, 5d62403b186f2ace
+yahoo.com, 59080, reseller
+sharethrough.com, moxxxn1j, reseller, d53b998a7bd4ecd2
+yieldmo.com, 3091564759074414941, reseller
+rhythmone.com, 6694405583287859332, reseller, a670c89d4a324e47
+video.unrulymedia.com, 6694405583287859332, reseller
+rubiconproject.com, 24364, reseller, 0bfd66d529a55807
+emxdgt.com, 2002, reseller, 1e1d41537f7cad7f
+triplelift.com, 10252, reseller, 6c33edb13117fd86
+yahoo.com, 58986, reseller
+supermidas.com, 3443, direct
+improvedigital.com, 1601, reseller
