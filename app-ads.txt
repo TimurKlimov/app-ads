@@ -3415,3 +3415,4 @@ e-planning.net,53f866af404c4b62,RESELLER,c1ba615865ed87b2
 blueseasx.com, 203562, RESELLER
 pangleglobal.com, 82832, RESELLER
 mman.kr,32032,RESELLER
+xandr.com, 14168, RESELLER
