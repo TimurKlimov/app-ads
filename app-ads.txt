@@ -3433,3 +3433,8 @@ video.unrulymedia.com, 3226865594, RESELLER
 rhythmone.com, 3226865594, RESELLER, a670c89d4a324e47
 rubiconproject.com, 24460, RESELLER, 0bfd66d529a55807
 sharethrough.com, RHQvkGur, RESELLER, d53b998a7bd4ecd2
+adbility-media.com, 187, RESELLER
+hyperad.tech, 35, RESELLER
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
+triplelift.com, 12652, RESELLER, 6c33edb13117fd86
+loopme.com, 10287, RESELLER
