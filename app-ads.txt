@@ -3604,3 +3604,10 @@ video.unrulymedia.com, 2857386422084763865, RESELLER
 vidoomy.com, 6858194, RESELLER
 xandr.com, 13709, RESELLER
 yahoo.com, 58993, RESELLER
+markappmedia.site, 322972, RESELLER
+yahoo.com, 60013, RESELLER, e1a5b5b6e3255540
+freewheel.tv, 1568906, RESELLER
+freewheel.tv, 1568907, RESELLER
+adform.com, 2904, RESELLER
+orangeclickmedia.com, hgu2t0onqs874x95, RESELLER
+themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
