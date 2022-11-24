@@ -3533,3 +3533,33 @@ triplelift.com, 8446, RESELLER, 6c33edb13117fd86
 triplelift.com,13042,RESELLER, 6c33edb13117fd86
 videoheroes.tv,212459, RESELLER, 064bc410192443d8
 yahoo.com, 59669, RESELLER, e1a5b5b6e3255540
+media.net, 8cu1cp7pm, RESELLER
+triplelift.com, 13043, RESELLER, 6c33edb13117fd86
+contextweb.com, 562794, RESELLER, 89ff185a4c4e857c
+prequel.tv, 518, RESELLER
+contextweb.com, 562762, RESELLER, 89ff185a4c4e857c
+adiiix.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
+betweendigital.com, 44917, RESELLER
+rhebus.works, 7597018658, RESELLER
+lunamedia.io, b82743ba2ddf4bcaab3d1d4f91b1330e, RESELLER, 524ecb396915caaf
+aralego.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
+contextweb.com, 562772, RESELLER, 89ff185a4c4e857c
+smaato.com, 1100053435, RESELLER, 07bcf65f187117b4
+dmixer.co.kr, 1610, RESELLER
+contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 24448, RESELLER, 0bfd66d529a55807
+criteo.com, B-063105, RESELLER, 9fac4a4a87c2a4
+yahoo.com, 60010, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 161748, RESELLER, 5d62403b186f2ace
+conversantmedia.com, 100432, RESELLER
+themediagrid.com, A249ED, RESELLER, 35d5010d7789b49d
+sharethrough.com, K5WDGAsP, RESELLER, d53b998a7bd4ecd2
+pubnative.net, 1007249, RESELLER, d641df8625486a7b
+hyperad.tech, 221, RESELLER
+triplelift.com, 13042, RESELLER, 6c33edb13117fd86
+contextweb.com, 562852, RESELLER, 89ff185a4c4e857c
+yahoo.com, 59961, RESELLER, e1a5b5b6e3255540
+ucfunnel.com, par-AA7B236BA32DD484C838E249362437B8, RESELLER
+smaato.com, 1100004890, RESELLER
+gamaigroup.com, 320203, RESELLER
+acexchange.co.kr, 1416775282, RESELLER
