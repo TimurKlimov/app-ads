@@ -3685,3 +3685,5 @@ rubiconproject.com,20990,RESELLER,0bfd66d529a55807
 video.unrulymedia.com, 2022906034, DIRECT
 rhythmone.com, 2022906034, DIRECT, a670c89d4a324e47
 smaato.com, 1100051327, RESELLER, 07bcf65f187117b4
+outbrain.com, 00b7ea45470d8fb01743e66d0481f459ac, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d117s
