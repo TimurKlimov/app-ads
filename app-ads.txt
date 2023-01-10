@@ -3740,3 +3740,4 @@ triplelift.com, 12883-eb, RESELLER, 6c33edb13117fd86
 videoheroes.tv, 212503, RESELLER, 064bc410192443d8
 vidoomy.com, 1576959, DIRECT
 yeahmobi.com, 5135284, RESELLER
+smartadserver.com, 4395, RESELLER, 060d053dcf45cbf3
