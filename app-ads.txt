@@ -3742,3 +3742,9 @@ vidoomy.com, 1576959, DIRECT
 yeahmobi.com, 5135284, RESELLER
 smartadserver.com, 4395, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4214, RESELLER, 060d053dcf45cbf3
+appnexus.com, 11826, RESELLER,
+improvedigital.com, 2052, RESELLER,
+improvedigital.com,1604, RESELLER,
+improvedigital.com, 22852136, RESELLER,
+spotx.tv, 287468, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 287468, RESELLER, 7842df1d2fe2db34
