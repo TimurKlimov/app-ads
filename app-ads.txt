@@ -3748,3 +3748,35 @@ improvedigital.com,1604, RESELLER,
 improvedigital.com, 22852136, RESELLER,
 spotx.tv, 287468, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 287468, RESELLER, 7842df1d2fe2db34
+e-planning.net, DIRECT, 924f363440f7256b
+video.unrulymedia.com, 1767353092 , RESELLER
+152media.info, 152M5
+sonobi.com,8efb591506,DIRECT,d1a215d9eb5aee9e
+brightcom.com, 20498, DIRECT
+sharethrough.com, r4ScMSsf, RESELLER, d53b998a7bd4ecd2
+Contextweb.com ,562863,RESELLER,89ff185a4c4e857c
+openx.com, 540857594, DIRECT, 6a698e2ec38604c6
+appnexus.com, 12366, DIRECT, f5ab79cb980f11d1
+amitydigital.io, 458, DIRECT
+pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160850 , DIRECT, 5d62403b186f2ace
+google.com, pub-5848572006993303, RESELLER, f08c47fec0942fa0
+google.com, pub-0802393472674142, RESELLER, f08c47fec0942fa0
+google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
+google.com, pub-6593523210010154, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 22988, DIRECT, 0bfd66d529a55807
+themediagrid.com, ZP96AO, DIRECT, 35d5010d7789b49d
+smartadserver.com, 3913-OB, RESELLER, 060d053dcf45cbf3
+sovrn.com, 293179, DIRECT, fafdf38b16bf6b2b
+lijit.com, 293179, DIRECT, fafdf38b16bf6b2b
+lijit.com, 293179-eb, DIRECT, fafdf38b16bf6b2b
+openx.com, 539924617, RESELLER, 6a698e2ec38604c67
+openx.com, 557323449, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a5580
+loopme.com, 11550, RESELLER, 6c8d5f95897a5a3b
+admanmedia.com, 2029, DIRECT
+zeta.com, 757, RESELLER
+disqus.com, 757, RESELLER
+vidoomy.com, 5630014, RESELLER
+appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
+tredio.io, 357a6fdf7642bf815a88822c447d9dc431894, RESELLER
