@@ -3783,3 +3783,5 @@ disqus.com, 757, RESELLER
 vidoomy.com, 5630014, RESELLER
 appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 tredio.io, 357a6fdf7642bf815a88822c447d9dc431894, RESELLER
+uis.mobfox.com, 1665, DIRECT, 5529a3d1f59865be
+improvedigital.com, 2212, RESELLER
