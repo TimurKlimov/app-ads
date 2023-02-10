@@ -3705,3 +3705,9 @@ appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
 tredio.io, 357a6fdf7642bf815a88822c447d9dc431894, RESELLER
 uis.mobfox.com, 1665, DIRECT, 5529a3d1f59865be
 improvedigital.com, 2212, RESELLER
+adform.com, 582, RESELLER, 9f5210a2f0999e32
+connectad.io, 333, RESELLER, 85ac85a30c93b3e5
+improvedigital.com, 1936, RESELLER
+keymobile.se, 1045001, RESELLER
+pubmatic.com, 158969, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17310, RESELLER, 0bfd66d529a55807
