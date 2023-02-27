@@ -1,7 +1,7 @@
 facebook.com, 745421126967853, DIRECT, c3e20eee3f780d68
-Facebook.com, 903413267324613 , RESELLER, c3e20eee3f780d68
+Facebook.com, 903413267324613, RESELLER, c3e20eee3f780d68
 facebook.com, 903413267324613, DIRECT, c3e20eee3f780d68
-facebook.com 700608134770534, RESELLER, c3e20eee3f780d68
+facebook.com, 700608134770534, RESELLER, c3e20eee3f780d68
 Facebook.com, 487630536777323, RESELLER, c3e20eee3f780d68
 Facebook.com, 854540959300326, RESELLER, c3e20eee3f780d68
 facebook.com, 215727579727549, DIRECT, c3e20eee3f780d68
@@ -94,8 +94,8 @@ adelement.com, 30271, RESELLER
 adelement.com, 30272, RESELLER
 adelement.com, 30273, RESELLER
 adelement.com, 30293, RESELLER
-adelement.com,30020,RESELLER
-adelement.com,30208,RESELLER
+adelement.com, 30020, RESELLER
+adelement.com, 30208, RESELLER
 adform.com, 1492, RESELLER, 9f5210a2f0999e32
 adform.com, 1941, DIRECT
 adform.com, 1942, DIRECT
@@ -110,7 +110,7 @@ adform.com, 2795, RESELLER
 adform.com, 2840, RESELLER
 adform.com, 2917, RESELLER, 9f5210a2f0999e32
 adform.com, 2918, DIRECT, 9f5210a2f0999e32
-adform.com,2795,RESELLER
+adform.com, 2795,RESELLER
 adiiix.com, par-9A2627866DA4BBE4F4AA4A67A3DDE686, RESELLER
 adiiix.com, par-be7eb37782ae98d30a72e37d8976ad4, DIRECT
 adiiix.com, par-be7eb37782ae98d30a72e37d8976ad4, reseller
