@@ -3798,3 +3798,21 @@ vidoomy.com, 1576959, RESELLER
 vidoomy.com, 9148331, RESELLER
 loopme.com, 11562, RESELLER, 6c8d5f95897a5a3b
 chocolateplatform.com, 16913, DIRECT, 49a66ce31a704197
+acexchange.co.kr, 1601362449, RESELLER
+adyoulike.com, 53264963677efeda057eef7db2cb305f, RESELLER
+brightcom.com, 29556, RESELLER
+disqus.com, 998, RESELLER
+e-planning.net, 9522026ef023606d,RESELLER, c1ba615865ed87b2
+explorads.com, 191296, Reseller
+hyperad.tech, 172, RESELLER
+hyperad.tech, 182, RESELLER
+imds.tv, 82302, RESELLER, ae6c32151e71f19d
+krushmedia.com, AJxF6R470a9M6CaTvK, RESELLER
+lijit.com, 420355, RESELLER, fafdf38b16bf6b2b
+loopme.com,11536,RESELLER,6c8d5f95897a5a3b
+minutemedia.com, 01gjjdge6zcz, RESELLER
+nativiser.com, 3fe94a002317b5f9259f82690aeea4cd30706, RESELLER
+onetag.com, 765b4e6bb9c8438, RESELLER
+se7en.es, 212503, RESELLER, 064bc410192443d8
+similarrate.com, 7f6ffaa6bb0b408017b62254211691b530509, RESELLER
+zeta.com, 998, RESELLER
