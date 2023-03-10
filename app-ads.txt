@@ -3819,3 +3819,5 @@ onetag.com, 765b4e6bb9c8438, RESELLER
 se7en.es, 212503, RESELLER, 064bc410192443d8
 similarrate.com, 7f6ffaa6bb0b408017b62254211691b530509, RESELLER
 zeta.com, 998, RESELLER
+premiumads.com.br, 20071, DIRECT
+smartadserver.com, 4072, RESELLER
