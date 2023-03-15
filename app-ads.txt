@@ -3877,7 +3877,24 @@ Xapads.com, 160795, RESELLER
 google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
 bidvol.com, 12836,RESELLER
 vidoomy.com, 6372668,RESELLER
-
+adform.com, 2967, RESELLER
+airnowplatform.com, 7000208, RESELLER
+alpineinteractivegroup.com,8113111129,RESELLER
+appnexus.com, 14228, RESELLER
+appnexus.com, 14423, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 100432, RESELLER, 03113cd04947736d
+gitberry.com, 345100012, RESELLER
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+mediaverse.ai, 302149932, RESELLER
+prequel.tv, 517, RESELLER
+sharethrough.com, pLL9cLon, RESELLER, d53b998a7bd4ecd2
+showheroes.com, 6018, RESELLER
+smartadserver.com, 3020, RESELLER, 060d053dcf45cbf3
+smartstream.tv,667,RESELLER
+video.unrulymedia.com, 649652654350370180, RESELLER
+visiblemeasures.com, 1001, RESELLER
+whildey.com,2129553945,RESELLER
+yahoo.com, 59905, RESELLER, e1a5b5b6e3255540
 
 
 #TEMP FOR MP
