@@ -3896,7 +3896,19 @@ video.unrulymedia.com, 649652654350370180, RESELLER
 visiblemeasures.com, 1001, RESELLER
 whildey.com,2129553945,RESELLER
 yahoo.com, 59905, RESELLER, e1a5b5b6e3255540
-
+altitude-arena.com, FIRD0F0P6T2MLDMG7GCJFTBAI8, RESELLER
+consumable.com, 2001431, DIRECT, aefcd3d2f45b5070
+contextweb.com ,562786,RESELLER,89ff185a4c4e857c
+contextweb.com, 562930, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100397, RESELLER, 03113cd04947736d
+decenterads.com, 574, RESELLER
+eskimi.com, 2020000032, RESELLER
+lemmatechnologies.com, 975, DIRECT, 7829010c5bebd1fb
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf30612, RESELLER
+rubiconproject.com, 24926, RESELLER, 0bfd66d529a55807
+sharethrough.com, yXPpfvLB, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 3564 , RESELLER.
+ssp.kiviads.com, AJxF6R14a9M6CaTvK, DIRECT
 
 #TEMP FOR MP
 #Updated 2.2.2023
