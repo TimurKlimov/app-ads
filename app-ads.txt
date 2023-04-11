@@ -6008,6 +6008,13 @@ kelmak.com, 8824, RESELLER, 35jf639akfl3854nh
 taipeidigital.com, 1122, DIRECT
 almaty-digital.com, a11lm2t1356y7d9i, DIRECT, g2it3241165al22r5
 Contextweb.com, 562769,RESELLER,89ff185a4c4e857c
+orangeclickmedia.com, ysqb2lzugidx71mr, DIRECT 
+freewheel.tv, 1512258, DIRECT
+pubmatic.com, 161853, RESELLER
+rubiconproject.com, 20086, RESELLER
+video.unrulymedia.com, 6111915185540403805, RESELLER
+rhythmone.com, 6111915185540403805, RESELLER
+contextweb.com, 562925,  RESELLER  , 89ff185a4c4e857c
 # Improve Digital
 improvedigital.com, 2233, RESELLER
 # Loopme
@@ -6041,6 +6048,7 @@ adview.com,94270849,DIRECT,1b2cc038a11ea319
 x.adprime.com, AJxF6R20a9M6CaTvK, RESELLER
 adwmg.com, 100409, DIRECT, c9688a22012618e7
 appnexus.com, 13099, RESELLER
+aceex.io, 1314, DIRECT, b1cf3c874d5c6682
 # AdInMo app-ads.txt END
 
 
