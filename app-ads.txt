@@ -3977,7 +3977,7 @@ rubiconproject.com, 17902, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 13762, RESELLER, 0bfd66d529a55807
 venatus.com, 643e7622c1cdad6358880907, RESELLER
 video.unrulymedia.com, 2997140015, RESELLER
-
+smartclip.net,14275,RESELLER
 
 
 
