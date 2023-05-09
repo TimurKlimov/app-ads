@@ -3979,7 +3979,13 @@ rubiconproject.com, 13762, RESELLER, 0bfd66d529a55807
 venatus.com, 643e7622c1cdad6358880907, RESELLER
 video.unrulymedia.com, 2997140015, RESELLER
 smartclip.net,14275,RESELLER
-
+adnuro.com, 9303102757, RESELLER
+advanttechnology.com, 7718770105, RESELLER
+balloonlabs.ai, 7514568672, RESELLER
+connekt.ai, 8897271402, RESELLER
+lkqd.net, 1100053828, RESELLER
+newsusadigital.com, 8612882389, RESELLER
+smartstream.tv, 679, RESELLER
 
 
 
