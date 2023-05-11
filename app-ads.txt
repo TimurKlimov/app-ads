@@ -3986,7 +3986,20 @@ connekt.ai, 8897271402, RESELLER
 lkqd.net, 1100053828, RESELLER
 newsusadigital.com, 8612882389, RESELLER
 smartstream.tv, 679, RESELLER
-
+google.com, pub-8129348556359650, RESELLER, f08c47fec0942fa0
+potensus.com, 5307844236, DIRECT
+media.net, 8CU5NC283, RESELLER
+adingo.jp, 28793, RESELLER
+smartadserver.com, 4497-OB, RESELLER, 060d053dcf45cbf3
+video.unrulymedia.com, 2564526802, RESELLER
+smartadserver.com, 4016, DIRECT, 060d053dcf45cbf3 #Global
+smartadserver.com, 4012, DIRECT, 060d053dcf45cbf3 #EUR
+smartadserver.com, 4071, DIRECT, 060d053dcf45cbf3 #USD
+smartadserver.com, 4073, DIRECT, 060d053dcf45cbf3 #BRL
+smartadserver.com, 4074, DIRECT, 060d053dcf45cbf3 #MXN
+smartadserver.com, 4497, RESELLER, 060d053dcf45cbf3
+inmobi.com, 725952799f9b44528379f442e9fe91dc, DIRECT, 83e75a7ae333ca9d
+rubiconproject.com, 25022, RESELLER, 0bfd66d529a55807
 
 
 #TEMP FOR MP
