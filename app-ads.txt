@@ -5945,6 +5945,7 @@ aol.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
 
+
 # AdInMo app-ads.txt BEGIN
 # SmartyAds
 smartyads.com, 1607, DIRECT, fd2bde0ff2e62c5d
@@ -6296,11 +6297,12 @@ pubmatic.com, 162081, RESELLER, 5d62403b186f2ace
 adform.com, 2845, RESELLER, 9f5210a2f0999e32
 adform.com, 1512, RESELLER
 video.unrulymedia.com, 1959272400084273804, RESELLER
-smartyads.com, 942, DIRECT, fd2bde0ff2e62c5d
 adform.com, 2795, RESELLER
 loopme.com, 11426, RESELLER, 6c8d5f95897a5a3b
 video.unrulymedia.com, 3563866356, DIRECT
 consumable.com, 2001482, DIRECT, aefcd3d2f45b5070
+# Altitude
+high.altitude-ssp.com, 677302, DIRECT
 adinmo.com, 140f5eb1-214d-43e0-bc76-51468ddcc6f0, DIRECT
 # AdInMo app-ads.txt END
 
