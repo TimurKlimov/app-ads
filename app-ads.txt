@@ -5945,7 +5945,6 @@ aol.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
 
-
 # AdInMo app-ads.txt BEGIN
 # SmartyAds
 smartyads.com, 1607, DIRECT, fd2bde0ff2e62c5d
@@ -6305,6 +6304,7 @@ consumable.com, 2001482, DIRECT, aefcd3d2f45b5070
 high.altitude-ssp.com, 677302, DIRECT
 adinmo.com, 140f5eb1-214d-43e0-bc76-51468ddcc6f0, DIRECT
 # AdInMo app-ads.txt END
+
 
 ##################
 # CleverAdsSolutions Additional
