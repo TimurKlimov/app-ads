@@ -4192,7 +4192,13 @@ yandex.com,97539269,RESELLER
 onetag.com, 7f04166be554ad0, DIRECT
 onetag.com, 7f04166be554ad0-OB, DIRECT
 indexexchange.com,194527, DIRECT, 50b1c356f2c5c8fc 
-
+themediagrid.com, 6XGFYQ, RESELLER, 35d5010d7789b49d
+loopme.com, 11318, RESELLER, 6c8d5f95897a5a3b
+sonobi.com, 1cdc3b298d, DIRECT, d1a215d9eb5aee9e
+pubnative.net, 1008289, RESELLER, d641df8625486a7b
+vidoomy.com, 5053058, DIRECT
+smartadserver.com , 4655, RESELLER, 060d053dcf45cbf3
+algorix.co, 60543, DIRECT, 5b394c12fea27a1d
 
 
 
