@@ -4200,6 +4200,28 @@ vidoomy.com, 5053058, DIRECT
 smartadserver.com , 4655, RESELLER, 060d053dcf45cbf3
 algorix.co, 60543, DIRECT, 5b394c12fea27a1d
 app-ads.text: fivecdm.com,50756753,DIRECT
+yabbi.me, f12bd731-2eb9-487c-9260-0c350e2d312b, DIRECT
+betweendigital.com, 43713, RESELLER
+improvedigital.com, 2162, RESELLER
+improvedigital.com, 2163, RESELLER
+Contextweb.com,562852,RESELLER,89ff185a4c4e857c
+improvedigital.com, 2178, RESELLER
+improvedigital.com, 2177, RESELLER
+triplelift.com, 12240,RESELLER, 6c33edb13117fd86
+thebrave.io, 1234648, RESELLER, c25b2154543746ac
+iqzone.com,IQ163,RESELLER
+inmobi.com,59c7922793a3477b9419f0854d1da7e9,RESELLER,83e75a7ae333ca9d
+
+
+
+
+
+
+
+
+
+
+
 
 
 #TEMP FOR MP
