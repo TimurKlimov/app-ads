@@ -6108,6 +6108,26 @@ loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 xandr.com, 13799, RESELLER
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
 freewheel.tv, 1137745, RESELLER
+sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 156557, RESELLER
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+x.adprime.com, AJxF6R20a9M6CaTvK, RESELLER
+mediaverse.ai, 302152861, RESELLER
+omnifytv.com, 1133aea857844a518c6eedab3c1eecd0, RESELLER
+nextmillennium.io, 16378, RESELLER, 65bd090fa4a1e3d6
+appnexus.com, 9284, RESELLER, f5ab79cb980f11d1
+152media.info, 152M608, RESELLER
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+kiviads.com, AJxF6R32a9M6CaTvK, RESELLER
+smartadserver.com, 4616, RESELLER, 060d053dcf45cbf3
+rubiconproject.com, 24926, RESELLER, 0bfd66d529a55807
+pubmatic.com, 163161, RESELLER, 5d62403b186f2ace
+sspx.tech, dspx146, RESELLER
+pubmatic.com, 163037, RESELLER
+toucanads.io, c042f4db68f23406c6cecf84a7ebb0fe32786, RESELLER
+sonobi.com, 25e3d9361e, RESELLER, d1a215d9eb5aee9e
 # OpenX
 openx.com, 557750920, DIRECT, 6a698e2ec38604c6
 # iion
@@ -6228,7 +6248,7 @@ movve.com, 4350252, RESELLER
 # Xandr
 appnexus.com, 3567, DIRECT, f5ab79cb980f11d1
 # Aceex
-aceex.io, ID, DIRECT, b1cf3c874d5c6682
+aceex.io, 1314, DIRECT, b1cf3c874d5c6682
 xandr.com, 13167, RESELLER
 pubmatic.com, 162458, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 24992, DIRECT, 0bfd66d529a55807
@@ -6247,9 +6267,24 @@ adview.com,94270849,DIRECT,1b2cc038a11ea319
 x.adprime.com, AJxF6R20a9M6CaTvK, RESELLER
 adwmg.com, 100409, DIRECT, c9688a22012618e7
 appnexus.com, 13099, RESELLER
-aceex.io, 1314, DIRECT, b1cf3c874d5c6682
 leadid.net, d81f9c1be2e08964bf9f24b15f0e490032562, DIRECT
 inmobi.com, bacf0c837577441bbdb15c2fd7394f54, RESELLER, 83e75a7ae333ca9d
+gumgum.com, 15677, RESELLER, ffdef49475d318a9
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 23434, RESELLER, 0bfd66d529a55807
+contextweb.com, 558355, RESELLER
+pubmatic.com, 157897, RESELLER, 5d62403b186f2ace
+EMXDGT.com, 1284, RESELLER, 1e1d41537f7cad7f
+openx.com, 537149485, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 1884, RESELLER
+admanmedia.com, 799, RESELLER
+smartadserver.com, 4005, RESELLER
+inmobi.com, 5ca65892bdc34cc8a63ea3550cbd15d0, RESELLER, 83e75a7ae333ca9d
+screencore.io, 361, DIRECT, a272bc30660e7ec7
+inmobi.com, cfb6e589b0d34192ae850eb7f09744a5, DIRECT, 83e75a7ae333ca9d 
+inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d 
+inmobi.com, 300bb0e4e3704cd495136c09d57448b9, RESELLER, 83e75a7ae333ca9d 
+inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
 # Unruly
 video.unrulymedia.com, 824843380, RESELLER
 advertising.com, 23089, RESELLER 
