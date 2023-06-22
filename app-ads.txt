@@ -4212,7 +4212,8 @@ thebrave.io, 1234648, RESELLER, c25b2154543746ac
 iqzone.com,IQ163,RESELLER
 inmobi.com,59c7922793a3477b9419f0854d1da7e9,RESELLER,83e75a7ae333ca9d
 pubmatic.com,156557,RESELLER,5d62403b186f2ace
-
+bigo.sg, 1012, DIRECT
+bigo.sg, 1013, DIRECT
 
 
 
