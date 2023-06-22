@@ -6426,7 +6426,6 @@ mobilefuse.com, 2281, RESELLER, 71e88b065d69c021
 ndexexchange.com, 194527, DIRECT, 50b1c356f2c5c8fc
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 openx.com, 543980236, RESELLER, 6a698e2ec38604c6
-optad360.com, 8592331, DIRECT
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
@@ -7729,7 +7728,6 @@ mobilefuse.com, 2281, RESELLER, 71e88b065d69c021
 ndexexchange.com, 194527, DIRECT, 50b1c356f2c5c8fc
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 openx.com, 543980236, RESELLER, 6a698e2ec38604c6
-optad360.com, 8592331, DIRECT
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
@@ -9088,7 +9086,6 @@ mobilefuse.com, 2281, RESELLER, 71e88b065d69c021
 ndexexchange.com, 194527, DIRECT, 50b1c356f2c5c8fc
 openx.com, 540679900, RESELLER, 6a698e2ec38604c6
 openx.com, 543980236, RESELLER, 6a698e2ec38604c6
-optad360.com, 8592331, DIRECT
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
