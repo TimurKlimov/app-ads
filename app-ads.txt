@@ -4308,7 +4308,20 @@ rtbhouse.com, fqmvmwnh9tkzclzoqjfn, RESELLER
 smartyads.com, 942, RESELLER, fd2bde0ff2e62c5d
 xandr.com, 7847, RESELLER, f5ab79cb980f11d1
 xapads.com, 144307, RESELLER
-
+google.com, pub-2440311687448832, RESELLER, f08c47fec0942fa0
+google.com, pub-3635537627664462, RESELLER, f08c47fec0942fa0
+google.com, pub-3863857816710740, RESELLER, f08c47fec0942fa0
+google.com, pub-5022401481132368, RESELLER
+google.com, pub-5022401481132368, RESELLER, f08c47fec0942fa0
+google.com, pub-5935046103054497, RESELLER, f08c47fec0942fa0
+google.com, pub-7140337539960654, RESELLER, f08c47fec0942fa0
+google.com, pub-7251712046059526, RESELLER, f08c47fec0942fa0
+google.com, pub-7955322303263231, RESELLER, f08c47fec0942fa0
+google.com, pub-8526155812278490, RESELLER, f08c47fec0942fa0
+google.com, pub-8728712656723745, RESELLER, f08c47fec0942fa0
+google.com, pub-9137573150947883, RESELLER, f08c47fec0942fa0
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+Xapads.com, 155860, RESELLER
 
 
 
