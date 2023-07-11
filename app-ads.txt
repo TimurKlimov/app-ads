@@ -4322,9 +4322,9 @@ google.com, pub-8728712656723745, RESELLER, f08c47fec0942fa0
 google.com, pub-9137573150947883, RESELLER, f08c47fec0942fa0
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
 Xapads.com, 155860, RESELLER
-
-
-
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+media.net, 8CUD06Z68, RESELLER
 
 
 
