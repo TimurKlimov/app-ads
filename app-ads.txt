@@ -4326,7 +4326,11 @@ Xapads.com, 155860, RESELLER
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 media.net, 8CUD06Z68, RESELLER
-
+bigo.sg, 11320313, DIRECT
+adview.com, 53849096, RESELLER
+lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER
+chocolateplatform.com, 14630, RESELLER
+betweendigital.com, 44229, RESELLER
 
 
 
