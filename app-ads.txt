@@ -4346,7 +4346,7 @@ loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
 improvedigital.com, 1408, RESELLER
 pubmatic.com, 163560, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 20488, RESELLER, 0bfd66d529a55807
-
+google.com, pub-5572644294330645, DIRECT, f08c47fec0942fa0
 
 #TEMP FOR MP
 #Updated 2.2.2023
