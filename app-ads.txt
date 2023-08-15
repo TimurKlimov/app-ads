@@ -4365,6 +4365,27 @@ betweendigital.com, 45426, DIRECT
 video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
 Xapads.com, 194000, RESELLER
 ignitemediatech.com, pub_61676, DIRECT
+adingenious.com, 70004, DIRECT
+axonix.com, 57264, RESELLER, bc385f2b4a87b721
+consumable.com, 2001485, RESELLER, aefcd3d2f45b5070
+opera.com, pub9426044543296, RESELLER, 55a0c5fd61378de3
+pubmatic.com, 163531, RESELLER, 5d62403b186f2ace
+rhythmone.com, 676914333, RESELLER, a670c89d4a324e47
+rubiconproject.com, 22554, RESELLER, 0bfd66d529a55807
+smaato.com, 1100054974, DIRECT, 07bcf65f187117b4
+sonobi.com, a85c5f6129, RESELLER, d1a215d9eb5aee9e
+video.unrulymedia.com, 676914333, RESELLER
+video.unrulymedia.com, 2564526802, RESELLER, 6f752381ad5ec0e5
+
+
+
+
+
+
+
+
+
+
 
 
 
