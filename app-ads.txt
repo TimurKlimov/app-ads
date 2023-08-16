@@ -4376,7 +4376,41 @@ smaato.com, 1100054974, DIRECT, 07bcf65f187117b4
 sonobi.com, a85c5f6129, RESELLER, d1a215d9eb5aee9e
 video.unrulymedia.com, 676914333, RESELLER
 video.unrulymedia.com, 2564526802, RESELLER, 6f752381ad5ec0e5
-
+facebook.com, 110343613134987, RESELLER, c3e20eee3f780d68
+pangleglobal.com, 5006878, DIRECT
+resetdigital.co, 125, DIRECT
+Yahoo.com, 59906, RESELLER, e1a5b5b6e3255540
+vidoomy.com, 5975555, RESELLER
+onetag.com, 7d9af0b85b5070e, DIRECT
+smartyads.com, 100252, DIRECT, fd2bde0ff2e62c5d
+video.unrulymedia.com, 3563866356, DIRECT
+appnexus.com, 14416, DIRECT
+yahoo.com, 60013, DIRECT
+brightcom.com, 20894, DIRECT
+streamkey.tv, 12781, DIRECT, f5ab793he40f11d1
+video.unrulymedia.com, 3452231749, RESELLER
+Instreamatic.com, 165, RESELLER
+adtonos.com, PUB237594974, DIRECT
+consumable.com, 2001419, DIRECT, aefcd3d2f45b5070
+sharethrough.com, YJAbeVRT, DIRECT, d53b998a7bd4ecd2
+sharethrough.com, 6WZq6Zzq, DIRECT, d53b998a7bd4ecd2
+Disqus.com, 828, DIRECT
+opera.com,pub7767718555008,DIRECT,55a0c5fd61378de3
+Stroeer.com, 23238, DIRECT
+uis.mobfox.com, 2025, RESELLER, 5529a3d1f59865be
+adform.com, 3020, RESELLER, 9f5210a2f0999e32
+conversantmedia.com, 100273, DIRECT, 03113cd04947736d
+rhythmone.com, 1295892552, DIRECT, a670c89d4a324e47
+video.unrulymedia.com, 1295892552, DIRECT
+bizzclick.com, 307, RESELLER, 7e936b1feafdaa61
+opera.com,pub9443931419968,DIRECT,55a0c5fd61378de3
+sonobi.com,a85c5f6129,DIRECT,d1a215d9eb5aee9e
+vidoomy.com,4930225,DIRECT
+nextmillennium.io, 16270, DIRECT, 65bd090fa4a1e3d6
+appnexus.com, 9284, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 17888, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157577, DIRECT, 5d62403b186f2ace
+openx.com, 540224251, DIRECT, 6a698e2ec38604c6
 
 
 
