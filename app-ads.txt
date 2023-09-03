@@ -4675,7 +4675,14 @@ pubmatic.com,163420,RESELLER,5d62403b186f2ace
 axonix.com,59089,RESELLER,bc385f2b4a87b721
 betweendigital.com, 44972, RESELLER
 inmobi.com, 86357825a302443d9a99c0b5dda0eafa, RESELLER, 83e75a7ae333ca9d
-
+omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER
+criteo.com, B-064322, RESELLER, 9fac4a4a87c2a44f
+smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
+loopme.com, 11605, RESELLER, 6c8d5f95897a5a3b
+thunder-monetize.com, 4588767099, RESELLER
+opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
+opera.com, pub9598682313984, RESELLER, 55a0c5fd61378de3
+smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
 
 
 
