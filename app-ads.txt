@@ -4683,6 +4683,26 @@ thunder-monetize.com, 4588767099, RESELLER
 opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
 opera.com, pub9598682313984, RESELLER, 55a0c5fd61378de3
 smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
+yandex.com, 96934425, DIRECT  
+adview.com,77646260,RESELLER,1b2cc038a11ea319
+conversantmedia.com,100081,RESELLER,03113cd04947736d
+adcolony.com,382d79cd1387e603,RESELLER,1ad675c9de6b5176
+contextweb.com,562122,RESELLER,89ff185a4c4e857c
+bidence.com,3de04db04d6eb28b13281a39b1c16d67,RESELLER
+smartyads.com,368,RESELLER,fd2bde0ff2e62c5d
+pubmatic.com, 163075, RESELLER, 5d62403b186f2ace
+mangomob.net, ozgarer34a, RESELLER
+start.io, mgr, RESELLER
+inmobi.com, 12a9a79d60214a40a444a6103b81747c, RESELLER, 83e75a7ae333ca9d
+conversantmedia.com, 100339, RESELLER, 03113cd04947736d
+outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
+opera.com, pub5925993551616,RESELLER, 55a0c5fd61378de3
+Xapads.com, 155075, RESELLER
+
+
+
+
+
 
 
 
