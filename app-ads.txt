@@ -4786,7 +4786,51 @@ tropicsgames.com, a75395d9-5944-4f00-9282-d26f3756d83e, RESELLER
 inmobi.com, 0c2fa8130b884712913cc0bfc84e1c31, RESELLER, 83e75a7ae333ca9d
 video.unrulymedia.com, 837864616, RESELLER
 brightcom.com, 23120, RESELLER
-
+pokkt.com, 7092, RESELLER, c45702d9311e25fd
+brightcom.com, 29555, RESELLER
+yeahmobi.com, 114122, RESELLER
+Videoheroes.tv, 212439, RESELLER, 064bc410192443d8
+iqzone.com, IQ154, RESELLER
+adcolony.com, c7b2bb9f944ae42a, RESELLER, 1ad675c9de6b5176
+meitu.com, 755, RESELLER
+algorix.co, 60543, RESELLER, 5b394c12fea27a1d
+krushmedia.com, AJxF6R351a9M6CaTvK, RESELLER
+smartadserver.com, 4478, RESELLER
+contextweb.com, 562769, RESELLER, 89ff185a4c4e857c
+sharethrough.com, j0nru1gr, RESELLER, d53b998a7bd4ecd2
+triplelift.com, 12913, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 9085206363819624071, RESELLER
+themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
+acexchange.co.kr, 1746357004, RESELLER
+sonobi.com, 1cdc3b298d, RESELLER, d1a215d9eb5aee9e
+rubiconproject.com, 24856, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4295, RESELLER
+vidoomy.com, 5053058, RESELLER
+zmaticoo.com, 114122, RESELLER
+pubmatic.com, 161144, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4655, RESELLER, 060d053dcf45cbf3
+mgid.com, 782767, RESELLER, d4c29acad76ce94f
+rubiconproject.com, 9655, RESELLER, 0bfd66d529a55807
+pubmatic.com, 161673, RESELLER, 5d62403b186f2ace
+inmobi.com, 300bb0e4e3704cd495136c09d57448b9, RESELLER, 83e75a7ae333ca9d
+webeyemob.com, 70171, RESELLER
+outbrain.com, 00dbc7a68d0cd51d55ac0aa9e1918c9a34, RESELLER
+pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
+amitydigital.io, 489, RESELLER
+gitberry.com, 405100012, RESELLER
+inmobi.com, 38e36193f3c944d0b6254c71e511041b, RESELLER, 83e75a7ae333ca9d
+Xapads.com, 193890, RESELLER
+toponad.com, 164b751901a8b7, RESELLER, 1d49fe424a1a456d
+loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
+vidoomy.com, 7646534, RESELLER
+conversantmedia.com, 100569, RESELLER, 03113cd04947736d
+adelement.com, 36011, RESELLER
+adelement.com, 36012, RESELLER
+mobimight.com, 36011, RESELLER
+elixirvideo.co, 36011, RESELLER
+ubrikvideo.com, 36011, RESELLER
+Pubnative.net, 1008770, RESELLER, d641df8625486a7b
+ushareit.com, LC2d7ebe00c3f9364a, RESELLER
 
 
 
