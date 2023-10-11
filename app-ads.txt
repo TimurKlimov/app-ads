@@ -4877,7 +4877,46 @@ inmobi.com, f9fc3fd2821341efa80bda83c6e92990, RESELLER, 83e75a7ae333ca9d
 video.unrulymedia.com, 848837292, RESELLER
 media.net, 8CU48L24C, RESELLER
 Contextweb.com ,563114,RESELLER,89ff185a4c4e857c
-
+adwmg.com, 100409, DIRECT, c9688a22012618e7
+gothamads.com, 3215 , DIRECT, d9c86e5dec870222
+criteo.com, B-057702, DIRECT, 9fac4a4a87c2a44f
+Contextweb.com ,562836,RESELLER,89ff185a4c4e857c
+rubiconproject.com, 25194, DIRECT, 0bfd66d529a55807
+screencore.io, 812, DIRECT, a272bc30660e7ec7
+cleanmedia.net, 1677-963-20230814T213231670, DIRECT
+appnexus.com, 11642, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 160041, RESELLER, 5d62403b186f2ace
+media.net, 8CUOSZ9I4, RESELLER
+imds.tv, 82130, RESELLER, ae6c32151e71f19d
+conversantmedia.com, 41992, RESELLER, 03113cd04947736d
+high.altitude-ssp.com, 677306, DIRECT
+bold-win.com, 855, DIRECT, 71746737d0bab951
+my-cast.tv, 986875, DIRECT
+smartivi.ai, 357230, DIRECT
+rubiconproject.com, 24606, RESELLER, 0bfd66d529a55807
+inmobi.com, b649852ee8ef481ab4929d4a092a061b, RESELLER, 83e75a7ae333ca9d
+inmobi.com, f0f631ccf1af490eb383caf0590806d8, RESELLER, 83e75a7ae333ca9d
+conversantmedia.com, 42094, RESELLER, 03113cd04947736d
+video.unrulymedia.com, 6934634821880853826, RESELLER
+Contextweb.com,563065,RESELLER,89ff185a4c4e857c
+smaato.com, 1100055204, RESELLER, 07bcf65f187117b4
+smartadserver.com, 3864, RESELLER
+adform.com, 3037, RESELLER, 9f5210a2f0999e32
+video.unrulymedia.com, 831638248788941126, RESELLER
+rubiconproject.com, 25748, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4695, RESELLER, 060d053dcf45cbf3
+betweendigital.com, 45334, DIRECT
+adsgard.net, 200232, DIRECT, 36a1c66e1a2f76dd
+aceex.io, 534, DIRECT, b1cf3c874d5c6682
+outbrain.com, 00e64972b5333d661db74cdc50be7ce364, DIRECT
+adform.com, 3062, RESELLER, 9f5210a2f0999e32
+criteo.com, B-071797, DIRECT, 9fac4a4a87c2a44f
+Contextweb.com, 563129, RESELLER, 89ff185a4c4e857c
+lijit.com, 467506, DIRECT, fafdf38b16bf6b2b #SOVRN
+video.unrulymedia.com, 2444764291, RESELLER
+contextweb.com, 558511, RESELLER
+lijit.com, 224984, DIRECT, fafdf38b16bf6b2b
+Xapads.com, 161167, DIRECT
 
 
 
