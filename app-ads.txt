@@ -4938,7 +4938,9 @@ themediagrid.com, IZLGFV, RESELLER, 35d5010d7789b49d
 themediagrid.com, RIX2M5, DIRECT, 35d5010d7789b49d
 video.unrulymedia.com, 739834158, RESELLER
 vidoomy.com, 7326733, RESELLER
-
+admixer.net, 142f7ae2-b259-439a-801d-0b1146b8518d, RESELLER
+vidoomy.com, 4433873, RESELLER
+acexchange.co.kr, 1024314629, RESELLER
 
 
 
