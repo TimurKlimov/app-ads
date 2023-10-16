@@ -4918,7 +4918,26 @@ contextweb.com, 558511, RESELLER
 lijit.com, 224984, DIRECT, fafdf38b16bf6b2b
 Xapads.com, 161167, DIRECT
 smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
-
+adlive.io, 114493, RESELLER
+almaty-digital.com, a11lm2t1356y7d9i, RESELLER, g2it3241165al22r5
+aps.amazon.com, 79e40b05-e673-4b6c-85f9-79252a7f96a5, RESELLER
+contextweb.com ,562770,RESELLER,89ff185a4c4e857c
+contextweb.com, 562786,RESELLER,89ff185a4c4e857c
+contextweb.com, 563086, RESELLER,89ff185a4c4e857c
+criteo.com, B-059025, DIRECT, 9fac4a4a87c2a44f
+danoler.com, 170853, RESELLER, 5d24754b175j2mde
+inmobi.com, 94262e51745c4a88863d51a61d0af6b6, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 94262e51745c4a88863d51a61d0af6b6, RESELLER,83e75a7ae333ca9d
+kelmak.com, 8824, RESELLER, 35jf639akfl3854nh
+metaxsoft.com, 27491476, RESELLER
+pixelpluses.com, 205225, RESELLER
+pubmatic.com, 162999, RESELLER, 5d62403b186f2ace
+sharethrough.com, j0nru1gr, DIRECT, d53b998a7bd4ecd2
+taipeidigital.com, 1122, DIRECT
+themediagrid.com, IZLGFV, RESELLER, 35d5010d7789b49d
+themediagrid.com, RIX2M5, DIRECT, 35d5010d7789b49d
+video.unrulymedia.com, 739834158, RESELLER
+vidoomy.com, 7326733, RESELLER
 
 
 
