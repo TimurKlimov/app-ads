@@ -5490,7 +5490,13 @@ video.unrulymedia.com, 2979066401945419350, RESELLER
 video.unrulymedia.com, 243575, RESELLER, a670c89d4a324e47
 videoheroes.tv, 212623, RESELLER, 064bc410192443d8
 vidoomy.com, 2704434, RESELLER
-
+video.unrulymedia.com, 831445555, RESELLER
+zoomd.com, 88478941, RESELLER
+sharethrough.com, NIRSC9f2, RESELLER, d53b998a7bd4ecd2
+openx.com, 540646187, RESELLER
+improvedigital.com, 1795, RESELLER
+opera.com, pub8613009987200, DIRECT, 55a0c5fd61378de3
+smartadserver.com, 4694-OB, RESELLER, 060d053dcf45cbf3
 
 
 
