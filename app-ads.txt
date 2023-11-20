@@ -5497,7 +5497,11 @@ openx.com, 540646187, RESELLER
 improvedigital.com, 1795, RESELLER
 opera.com, pub8613009987200, DIRECT, 55a0c5fd61378de3
 smartadserver.com, 4694-OB, RESELLER, 060d053dcf45cbf3
-
+Xapads.com,161167,DIRECT   
+gamoshi.io, 267-b5428, DIRECT, 20e30b2ae1f670f2 
+waardex.com, 196643, DIRECT
+152media.info,152M620,RESELLER
+conversantmedia.com, 100634, DIRECT, 03113cd04947736d
 
 
 
