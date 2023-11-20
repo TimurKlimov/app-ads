@@ -5502,7 +5502,34 @@ gamoshi.io, 267-b5428, DIRECT, 20e30b2ae1f670f2
 waardex.com, 196643, DIRECT
 152media.info,152M620,RESELLER
 conversantmedia.com, 100634, DIRECT, 03113cd04947736d
-
+jambojar.com, 2033010, RESELLER
+jambojar.com, 2033011, RESELLER
+jambojar.com, 2033012, RESELLER
+jambojar.com, 2033013, RESELLER
+indexexchange.com, 207402, RESELLER, 50b1c356f2c5c8fc
+smartyads.com, 8, RESELLER, fd2bde0ff2e62c5d
+connectad.io, 386, RESELLER, 85ac85a30c93b3e5kelmak.com, 117-p007, RESELLER
+loopme.com,11690,RESELLER,6c8d5f95897a5a3b
+inmobi.com, b7c3fe3c360a4b289aad35d90d9ba4dc, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 58158922344446f8b5b334d5ccc158d1, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 463ad425e21247da9f2eaae4d73891b6, RESELLER, 83e75a7ae333ca9d
+inmobi.com, f3e810d8b89e431ca63d92e911d5b0d9, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 26054, RESELLER, 0bfd66d529a55807
+Contextweb.com, 563173, RESELLER, 89ff185a4c4e857c
+inmobi.com, c786f4821e504a1481fd1178b9bb8bd9, RESELLER, 83e75a7ae333ca9d
+webeyemob.com, 80056, RESELLER
+e-planning.net, 9d9d34a6490cffd2, RESELLER, c1ba615865ed87b2
+Lijit.com, 481635, RESELLER, fafdf38b16bf6b2b #SOVRN
+freewheel.tv, 1602537, RESELLER
+conversantmedia.com, 100651, RESELLER, 03113cd04947736d
+lunamedia.io, vaiwtx4prucygk6uuevk13ywmjolbi5yun, RESELLER , 524ecb396915caaf
+disqus.com, 891, RESELLER
+thunder-monetize.com, 1943022683, RESELLER
+thunder-monetize.com, 8934485953, RESELLER
+152media.info, 152M708, RESELLER
+xandr.com, 15507, RESELLER, f5ab79cb980f11d1
+connekt.ai, 1930854428, RESELLER
+axonix.com, 59101, RESELLER, bc385f2b4a87b721
 
 
 
