@@ -5384,7 +5384,23 @@ app-stock.com, 315417, RESELLER
 markappmedia.site, 587286, RESELLER
 keenkale.com, 841, RESELLER
 admanmedia.com, 2063, RESELLER
-
+Adform.com,2742,RESELLER
+Pubmatic.com,162882,RESELLER,5d62403b186f2ace
+bidmachine.io,147,RESELLER
+bidmachine.io,148,RESELLER
+bidmachine.io,189,RESELLER
+bidmachine.io,190,RESELLER
+display.io,173162,RESELLER
+freewheel.tv,1137745,RESELLER
+freewheel.tv,1138513,RESELLER
+freewheel.tv,1600180,RESELLER
+freewheel.tv,1600214,RESELLER
+lacunads.com,LCc6b8b1c8aca38e6f,DIRECT
+smartadserver.com,4625,RESELLER,060d053dcf45cbf3
+sonobi.com,a85c5f6129,RESELLER,d1a215d9eb5aee9e
+triplelift.com,12158,RESELLER,6c33edb13117fd86
+ushareit.com,LCc6b8b1c8aca38e6f,DIRECT
+xandr.com,13799,RESELLER
 
 
 
