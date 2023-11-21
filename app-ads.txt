@@ -5508,7 +5508,7 @@ jambojar.com, 2033012, RESELLER
 jambojar.com, 2033013, RESELLER
 indexexchange.com, 207402, RESELLER, 50b1c356f2c5c8fc
 smartyads.com, 8, RESELLER, fd2bde0ff2e62c5d
-connectad.io, 386, RESELLER, 85ac85a30c93b3e5kelmak.com, 117-p007, RESELLER
+kelmak.com, 117-p007, RESELLER
 loopme.com,11690,RESELLER,6c8d5f95897a5a3b
 inmobi.com, b7c3fe3c360a4b289aad35d90d9ba4dc, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 58158922344446f8b5b334d5ccc158d1, RESELLER, 83e75a7ae333ca9d
