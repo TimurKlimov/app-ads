@@ -2306,10 +2306,8 @@ pubnative.net, 1007284, RESELLER, d641df8625486a7b #yieldmodisplay
 pubnative.net, 1007285, RESELLER, d641df8625486a7b #yieldmonative
 pubnative.net, 1007286, RESELLER, d641df8625486a7b #yieldmovideo
 pubnative.net, 1007302, RESELLER, d641df8625486a7b
-pubnative.net, 1007303, DIRECT, d641df8625486a7b
 pubnative.net, 1007303, reseller, d641df8625486a7b
 pubnative.net, 1007311, DIRECT, d641df8625486a7b
-pubnative.net, 1007311, reseller, d641df8625486a7b
 pubnative.net, 1007314, RESELLER, d641df8625486a7b
 pubnative.net, 1007334, RESELLER, d641df8625486a7b
 pubnative.net, 1007348, RESELLER, d641df8625486a7b
