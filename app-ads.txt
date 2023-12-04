@@ -5552,7 +5552,13 @@ opera.com, pub10014014172672, RESELLER, 55a0c5fd61378de3
 Contextweb.com, 563156, RESELLER, 89ff185a4c4e857c
 lijit.com, 487675, RESELLER, fafdf38b16bf6b2b
 xapads.com, 196215, RESELLER
-
+algorix.co, 604553, DIRECT, 5b394c12fea27a1d
+adelement.com, 36017, RESELLER
+auxoads.com, 90222, RESELLER
+adingenious.com, 70392, RESELLER
+bidence.com, 9d48459c49a3b604e65e262102b559b4, RESELLER
+opera.com, pub4261820774272, RESELLER,55a0c5fd61378de3
+toponad.com,16569723d4bfa4, RESELLER, 1d49fe424a1a456d
 
 
 
