@@ -5610,7 +5610,8 @@ unrulymedia.com,2464975885,RESELLER
 yeahmobi.com,114122,RESELLER
 appnexus.com, 14077, RESELLER, f5ab79cb980f11d1
 vindicosuite.com, 6612, RESELLER
-
+ignitemediatech.com, pub_11116, RESELLER
+ssp.e-volution.ai, AJxF6R130a9M6CaTvK, RESELLER
 
 
 
