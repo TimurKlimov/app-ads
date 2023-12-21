@@ -5581,7 +5581,21 @@ Adform.com, 3084, RESELLER
 appnexus.com, 15533, RESELLER, f5ab79cb980f11d1
 sharethrough.com, aEB4DhxW, RESELLER, d53b998a7bd4ecd2
 ssp.e-volution.ai, AJxF6R128a9M6CaTvK, RESELLER
-
+thunder-monetize.com, 2297825074, RESELLER
+thunder-monetize.com, 3692155372, RESELLER
+thunder-monetize.com, 3905806597, RESELLER
+video.unrulymedia.com, 962111114, RESELLER
+unrulymedia.com, 962111114, RESELLER
+signifad.com, 2439531018, RESELLER
+alpecs.com, 5656395907, RESELLER
+connekt.ai, 7343318920, RESELLER
+houseofpubs.com, 3800226559, RESELLER
+pubmatic.com, 164146, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163038, RESELLER, 5d62403b186f2ace
+themediagrid.com, 7MYRZ3, RESELLER, 35d5010d7789b49d
+criteo.com, B-072581, RESELLER, 9fac4a4a87c2a44f
+ignitemediatech.com, pub_11112, RESELLER
+lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 
 
 
