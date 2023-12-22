@@ -5738,7 +5738,9 @@ xapads.com, 193564, DIRECT
 xapads.com, 194999, DIRECT
 zetaglobal.net, 7296408, DIRECT
 zmaticoo.com, 1155292, RESELLER
-
+decenterads.com, 300197, DIRECT
+rubiconproject.com, 25906, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25908, RESELLER, 0bfd66d529a55807
 
 
 
