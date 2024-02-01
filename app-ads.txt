@@ -5881,7 +5881,23 @@ triplelift.com, 13686, DIRECT, 6c33edb13117fd86
 triplelift.com, 13686-EB, DIRECT, 6c33edb13117fd86
 video.unrulymedia.com, 322585001, RESELLER
 video.unrulymedia.com, 374933895, RESELLER
-
+aps.amazon.com,80cbcf46-fa75-4b05-b841-2df12bd3bfee,DIRECT
+vungle.com,A9_UAM,RESELLER
+sonobi.com,24f603762e,RESELLER,d1a215d9eb5aee9e
+smartadserver.com,4125,RESELLER,060d053dcf45cbf3
+adcolony.com,44ef7fd4adebf701,RESELLER,1ad675c9de6b5176
+pubmatic.com,160080,RESELLER,5d62403b186f2ace
+verve.com,2205665,RESELLER
+media.net,8CUM64E17,RESELLER
+inmobi.com,c9b845dbfad04876ae2e709f93b08258,RESELLER,83e75a7ae333ca9d
+start.io,uam,RESELLER
+minutemedia.com,01gya4708ddm,RESELLER
+visiblemeasures.com,1052,RESELLER
+EMXDGT.com,2009,RESELLER,1e1d41537f7cad7f
+undertone.com,4205,RESELLER,d954590d0cb265b9
+Admedia.com,AM1601,RESELLER
+sovrn.com,375328,RESELLER,fafdf38b16bf6b2b
+vidazoo.com,65944e18d9fa964be88374b8,RESELLER,b6ada874b4d7d0b2
 
 
 
