@@ -5842,3 +5842,7 @@ gitberry.com, 375100011, RESELLER
 inmobi.com, 7f272e3b20a34cd7a1c344a12519b253, RESELLER, 83e75a7ae333ca9d
 pubmatic.com, 164043, RESELLER, 5d62403b186f2ace
 smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
+algorix.co, 60532, RESELLER, 5b394c12fea27a1d
+gamaigroup.com, 423056, RESELLER
+thebrave.io, 1234633, RESELLER, c25b2154543746ac
+rhebus.works, 9019999555, RESELLER
