@@ -5854,3 +5854,10 @@ onetag.com, 8305cc299686700, RESELLER
 ssp.e-volution.ai, AJxF6R131a9M6CaTvK, RESELLER
 smartadserver.com, 1247, RESELLER, 060d053dcf45cbf3
 adform.com, 2664, RESELLER, 9f5210a2f0999e32
+growintech.co,2723d092b63885e0d7c260cc007e8b9d2393g,RESELLER,9d8dfe5c6b00fb37
+opera.com,pub4366595624320,RESELLER,55a0c5fd61378de3
+richaudience.com,flNoR9ht06,DIRECT
+thunder-monetize.com,2297825074,RESELLER
+unrulymedia.com,689559416,RESELLER
+yeahmobi.com,5135224,DIRECT
+zmaticoo.com,5135224,RESELLER
