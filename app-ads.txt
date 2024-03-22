@@ -704,18 +704,12 @@ bidmachine.io, 187, RESELLER
 bidmachine.io, 195, RESELLER
 bidmachine.io, 200, RESELLER
 bidmachine.io, 35, RESELLER
-bidmachine.io, 36, DIRECT
 bidmachine.io, 36, RESELLER
-bidmachine.io, 55, DIRECT
 bidmachine.io, 55, RESELLER
-bidmachine.io, 59, DIRECT
 bidmachine.io, 59, RESELLER
-bidmachine.io, 60, DIRECT
 bidmachine.io, 60, RESELLER
 bidmachine.io, 67, RESELLER
-bidmachine.io, 74, DIRECT
 bidmachine.io, 74, RESELLER
-bidmachine.io, 77, DIRECT
 bidmachine.io, 77, RESELLER
 bidmachine.io, 98, RESELLER
 bidmachine.io,138,RESELLER
