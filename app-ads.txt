@@ -6305,3 +6305,5 @@ conversantmedia.com, 100634, RESELLER, 03113cd04947736d
 appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
 e-planning.net,45845eaf076148f9,DIRECT,c1ba615865ed87b2
 managerdomain=bidmachine.io
+opera.com,pub10832153240576,DIRECT,55a0c5fd61378de3
+onetag.com,82e44d118b79600,DIRECT
