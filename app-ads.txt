@@ -6345,3 +6345,12 @@ smartadserver.com, 4395, RESELLER, 060d053dcf45cbf3
 pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164697, DIRECT, 5d62403b186f2ace
 pubmatic.com, 164697, RESELLER, 5d62403b186f2ace
+opera.com,pub9443931419968,RESELLER,55a0c5fd61378de3
+admanmedia.com, 2029, RESELLER
+openx.com, 540866936, RESELLER, 6a698e2ec38604c6
+smartyads.com, 100252, RESELLER, fd2bde0ff2e62c5d
+Vidoomy.com, 4661610 , RESELLER
+waardex.com, 196643, RESELLER
+inmobi.com, c3a13084114844a49580797573464536, RESELLER, 83e75a7ae333ca9d
+screencore.io, 177, RESELLER
+Xapads.com, 161167, RESELLER
